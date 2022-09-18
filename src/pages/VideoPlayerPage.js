@@ -100,7 +100,7 @@ function VideoPlayerPage() {
         <div className="w-full md:w-8/12">
           {userAccept ? (
             <iframe
-              src={`https://streamtape.com/e/${params.id}/`}
+              src={`https://streamtape.net/e/${params.id}/`}
               allowFullScreen
               allow="autoplay"
               scrolling="no"
