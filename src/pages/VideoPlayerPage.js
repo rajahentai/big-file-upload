@@ -135,7 +135,7 @@ function VideoPlayerPage() {
           <div className="mt-2 flex justify-center md:justify-end">
             <div>
               <a
-                href={`https://streamtape.com/v/${params.id}/`}
+                href={`https://streamtape.net/v/${params.id}/`}
                 target="_blank"
               >
                 <div className="button-icon hover:border-purple-500 hover:text-purple-500">
